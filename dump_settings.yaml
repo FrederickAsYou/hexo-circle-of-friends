@@ -18,8 +18,6 @@ HTTP_PROXY: false
 LINK:
 - link: https://www.ohdragonboi.cn/links/
   theme: butterfly
-- link: https://blog.frederication.work
-  theme: common1
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
